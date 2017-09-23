@@ -1,0 +1,18 @@
+{
+  "name": "lpapi",
+  "version": "0.0.1",
+  "description": "the label printer interface, order by dothantech",
+  "main": "lpapi.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GemHu/LPAPI.git"
+  },
+  "keywords": [
+    "lpapi"
+  ],
+  "author": "HuDianxing",
+  "license": "ISC"
+}
